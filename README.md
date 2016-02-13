@@ -1,2 +1,2 @@
 # doc
-Documentation Generator for ... Anything... eventually?
+Documentation generator for ... anything... eventually?

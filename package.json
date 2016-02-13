@@ -1,0 +1,26 @@
+{
+  "name": "doc",
+  "version": "0.0.1",
+  "description": "Documentation generator for ... anything... eventually?",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelsin/doc.git"
+  },
+  "author": "Christopher Giroir <kelsin@valefor.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kelsin/doc/issues"
+  },
+  "homepage": "https://github.com/kelsin/doc#readme"
+}
