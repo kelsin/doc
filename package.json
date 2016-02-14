@@ -6,8 +6,14 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "metalsmith": "^2.1.0",
+    "metalsmith-jade": "^2.0.2",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-metadata": "0.0.4"
+  },
   "devDependencies": {
+    "chai": "^3.5.0",
     "mocha": "^2.4.5"
   },
   "scripts": {
