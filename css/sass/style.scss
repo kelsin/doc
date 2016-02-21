@@ -1,0 +1,12 @@
+body { font-family: 'Open Sans', sans-serif; }
+
+code[class*=language-], pre[class*=language-] { font-family: 'Cousine', monospace; white-space: pre;}
+code { border: none; }
+
+
+
+@media (min-width: 40em) {
+  .code-section { position: relative;
+    //&__comment { position: absolute; left:0; }
+  }
+}
